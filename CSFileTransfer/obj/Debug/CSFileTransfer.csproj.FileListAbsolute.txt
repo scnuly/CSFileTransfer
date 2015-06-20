@@ -1,0 +1,16 @@
+D:\workspace\C#\CSFileTransfer\CSFileTransfer\bin\Debug\CSFileTransfer.exe
+D:\workspace\C#\CSFileTransfer\CSFileTransfer\bin\Debug\CSFileTransfer.pdb
+D:\workspace\C#\CSFileTransfer\CSFileTransfer\obj\Debug\ResolveAssemblyReference.cache
+D:\workspace\C#\CSFileTransfer\CSFileTransfer\obj\Debug\CSFileTransfer.Properties.Resources.resources
+D:\workspace\C#\CSFileTransfer\CSFileTransfer\obj\Debug\CSFileTransfer.csproj.GenerateResource.Cache
+D:\workspace\C#\CSFileTransfer\CSFileTransfer\obj\Debug\CSFileTransfer.exe
+D:\workspace\C#\CSFileTransfer\CSFileTransfer\obj\Debug\CSFileTransfer.pdb
+D:\workspace\C#\CSFileTransfer\CSFileTransfer\obj\Debug\CSFileTransfer.FileTransfer.resources
+D:\C#\CSFileTransfer\CSFileTransfer\obj\Debug\CSFileTransfer.exe
+D:\C#\CSFileTransfer\CSFileTransfer\obj\Debug\CSFileTransfer.pdb
+D:\C#\CSFileTransfer\CSFileTransfer\bin\Debug\CSFileTransfer.exe
+D:\C#\CSFileTransfer\CSFileTransfer\bin\Debug\CSFileTransfer.pdb
+D:\C#\CSFileTransfer\CSFileTransfer\obj\Debug\ResolveAssemblyReference.cache
+D:\C#\CSFileTransfer\CSFileTransfer\obj\Debug\CSFileTransfer.FileTransfer.resources
+D:\C#\CSFileTransfer\CSFileTransfer\obj\Debug\CSFileTransfer.Properties.Resources.resources
+D:\C#\CSFileTransfer\CSFileTransfer\obj\Debug\CSFileTransfer.csproj.GenerateResource.Cache
